@@ -1,44 +1,11 @@
 
-# NoteIt
+<img width="1889" height="793" alt="Screenshot 2025-08-27 193057" src="https://github.com/user-attachments/assets/0dd3a418-b4be-46c8-b379-22bb8dbf2408" />
 
-[NoteIt](https://appnoteit.netlify.app/) is a super cool note taking app, where you can add quiz or long notes and store it forever. You can use functionalities like pin, unpin and archive to make the most out of it.
-
-
-## List of features
-[Home Page](https://appnoteit.netlify.app/)
-- In the home page, you can add note and also pin and unpin the note
-
-Archive Page
-- In the archive page, you can find the notes that you archived
+<img width="1557" height="667" alt="Screenshot 2025-08-27 193353" src="https://github.com/user-attachments/assets/a7b88cec-843f-4366-9b8a-6d6590fea03d" />
 
 
-## Tech Stack
 
-- HTML/CSS
-- Javascript
+<img width="1877" height="785" alt="Screenshot 2025-08-27 193420" src="https://github.com/user-attachments/assets/4687dd07-43f4-4140-9b5e-876e953fa651" />
 
 
-## Author
-
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://appnoteit.netlify.app/
-
-
-## Run Locally
-
-Clone the project by adding the following command in the terminal.
-Make sure your have git installed and added to path.
-
-```bash
-  git clone https://github.com/prakashsakari/notes-app-vanillasjs.git
-```
-
-Open the project directory in a new window and run the html file
 
